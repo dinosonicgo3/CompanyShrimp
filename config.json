@@ -1,0 +1,24 @@
+{
+  "app_name": "公司蝦",
+  "version": "1.0.0",
+  "shopee": {
+    "shop_url": "",
+    "api_key": "",
+    "shop_id": ""
+  },
+  "pricing": {
+    "base_price": 0,
+    "markup_percentage": 0,
+    "rules": []
+  },
+  "image_settings": {
+    "max_size_kb": 1024,
+    "formats": ["jpg", "jpeg", "png"],
+    "download_folder": "./downloads"
+  },
+  "ai": {
+    "api_endpoint": "",
+    "model": "",
+    "temperature": 0.7
+  }
+}
